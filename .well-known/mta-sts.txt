@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: ernstenyvonne.nl
-mx: ernstenyvonne.nl
+mx: smtp.protonmail.ch
 max_age: 604800
