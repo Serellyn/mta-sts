@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: ernstenyvonne.nl
+mx: ernstenyvonne.nl
+max_age: 604800
